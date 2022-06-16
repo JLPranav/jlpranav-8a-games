@@ -1,6 +1,6 @@
-import pygame
-import random
-import math
+import pygame # In command prompt type "pip install pygame" before executing
+import random # In command prompt type "pip install random" before executing
+import math # In command prompt type "pip install math" before executing
 
 # Initialize Pygame
 pygame.init()
